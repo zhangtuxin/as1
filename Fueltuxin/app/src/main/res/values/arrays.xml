@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grades">
+        <item>please choose fuel grade</item>
+        <item>Very Good</item>
+        <item>Good</item>
+        <item>Commonly</item>
+        <item>Poor</item>
+        <item>Very poor</item>
+    </string-array>
+</resources>
